@@ -1,0 +1,8 @@
+	ID    Destination   Departure   Fare
+	07    Calumpit	    08:15AM     150
+	08    Pulilan	    09:15AM     160
+	09    Baliuag	    10:15AM     170
+	10    Calumpit	    12:15PM     150
+	11    Pulilan	    01:15PM     160
+	12    Baliuag	    02:15PM     170
+	
